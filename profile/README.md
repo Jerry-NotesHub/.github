@@ -35,3 +35,20 @@
 **[CS 3704](https://github.com/Jerry-NotesHub/CS_3704_Note)**
 
 - Course Summary: Explores the principles of software design in detail, with an emphasis on software engineering aspects. Includes exposure of software lifecycle activities including design, coding, testing, debugging, and maintenance, highlighting how design affects these activities. Peer reviews, designing for software reuse, CASE tools, and writing software to specifications are also covered.  (3H,3C)
+
+## Courses from Other Universities
+
+**[CS106B / CS106X](https://github.com/Jerry-NotesHub/CS106X) (Stanford)**
+
+- Course Description: This course is the natural successor to Programming Methodology and covers such advanced programming topics as recursion, algorithmic analysis, and data abstraction using the C++ programming language, which is similar to both C and Java.
+- CS106X: Accelerated version of 106B for students with a strong programming background interested in a rigorous treatment of the topics at an accelerated pace. Additional advanced material and more challenging projects.
+
+**[CS50](https://github.com/Jerry-NotesHub/CS50) (Harvard)**
+
+- Course Description: This is CS50x, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. Languages include C, Python, SQL, and JavaScript plus CSS and HTML. Problem sets are inspired by real-world domains such as biology, cryptography, finance, forensics, and gaming. The on-campus version of CS50x, CS50, is Harvard's largest course.
+
+## Miscellaneous
+
+**[Hello Algo](https://github.com/Jerry-NotesHub/Hello_Algo_Note)**
+
+- Description: This open-source project aims to create a free and beginner-friendly crash course for data structures and algorithms. It includes animated illustrations, easy-to-understand content, and a smooth learning curve to help beginners explore the "knowledge map" of data structures and algorithms. Features include running code with just one click to improve programming skills and understand the working principle of algorithms and the underlying implementation of data structures. The project encourages learning through teaching and discussion, promoting growth together.
