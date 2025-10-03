@@ -28,6 +28,14 @@
 
 - Course Summary: Advanced data structures and analysis of data structure and algorithm performance. Sorting, searching, hashing, and advanced tree structures and algorithms. File system organization and access methods. Course projects require advanced problem-solving, design, and implementation skills. (3H, 3C)
 
+**[CS 3214](https://github.com/Jerry-NotesHub/CS_3214_Note)**
+
+- Course Summary: This course provides an introduction to computer systems as they are relevant to application programmers today, with an emphasis on operating systems principles. Topics covered include: operating systems design and architectures; processes, threads, synchronization techniques, deadlock; CPU scheduling; system call interfaces, system level I/O and file management; shell programming; separate compilation, loading and linking; inter-process communication (IPC); virtual and physical memory management and garbage collection; network protocols and programming; virtualization and cloud computing. 
+
+**[CS 3214](https://github.com/Jerry-NotesHub/CS_3304_Note)**
+
+- Course Summary: This course provides an in-depth study of current and historical issues in the design, implementation, and application of programming languages. Topics will vary from basic to advance in areas such as syntax, semantics, binding, data abstraction, exception handling, concurrency, and functional, logic and object-oriented programming. Some programming will be required to help you get the feel for different types of languages. In particular, you will be expected to develop programs in two new paradigms with which you may not be familiar.
+
 **[CS 3704](https://github.com/Jerry-NotesHub/CS_3704_Note)**
 
 - Course Summary: Explores the principles of software design in detail, with an emphasis on software engineering aspects. Includes exposure of software lifecycle activities including design, coding, testing, debugging, and maintenance, highlighting how design affects these activities. Peer reviews, designing for software reuse, CASE tools, and writing software to specifications are also covered.  (3H,3C)
